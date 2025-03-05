@@ -2,6 +2,8 @@
 
 Thirdperson_info_Datasetは、1,399件の第三者情報を集めたもので、興味度と、興味度に関連する3つの項目がラベル付けされ、日本語で表示されている。
 
+参考：[論文](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/D4-3.pdf)，[データ](https://github.com/IshiguroLab/Thirdperson-info-Dataset/tree/main/data)
+
 # モデル
 4種類のモデルを作成した。
 
