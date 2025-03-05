@@ -18,7 +18,9 @@ model4: Multi-stage interest estimation model for each user attribute
 
 # Fine-tuning
 Four different models were created.
+
 Take model1 as an example.
+
 Download `train_model1.jsonl` and `test_model1.jsonl` and execute the following code:
 
 ```
