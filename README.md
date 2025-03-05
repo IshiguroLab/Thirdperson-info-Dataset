@@ -1,6 +1,10 @@
 # Thirdperson-info-Dataset
 
+[日本語 README](https://github.com/IshiguroLab/TopicDepthDataset/blob/c45b3cf545c54788ff495f5efb1898b1d10f6f4f/README_JP.md)
+
 Thirdperson_info_Dataset is a collection of 1,399 third-person information, labeled with the level of interest and three items related to the level of interest, and displayed in Japanese.
+
+eference:[Paper (Japanese)](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/D4-3.pdf)，[Data](https://github.com/IshiguroLab/Thirdperson-info-Dataset/tree/main/data)
 
 # Model
 Four different models were created.
