@@ -1,6 +1,6 @@
 # Thirdperson-info-Dataset
 
-[日本語 README](https://github.com/IshiguroLab/Thirdperson-info-Dataset/blob/main/README_JP.md))
+[日本語 README](https://github.com/IshiguroLab/Thirdperson-info-Dataset/blob/main/README_JP.md)
 
 Thirdperson_info_Dataset is a collection of 1,399 third-person information, labeled with the level of interest and three items related to the level of interest, and displayed in Japanese.
 
